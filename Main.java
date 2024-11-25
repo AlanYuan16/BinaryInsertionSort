@@ -1,3 +1,7 @@
+/*
+ * If you would like you can delete the SortedStudents.txt 
+ * and run it again to check if it works.
+ */
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;

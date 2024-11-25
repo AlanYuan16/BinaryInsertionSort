@@ -1,20 +1,20 @@
-1005, Jane Too, 22, 3.9
-1023, John Too, 20, 3.5
-1054, Judy Too, 22, 3.7
-1104, Henry Too, 19, 3.6
-2046, Stephanie Too, 21, 3.4
-2056, Guang Too, 21, 3.7
-3069, Daniel Too, 20, 3.2
-3107, Michael Too, 23, 3.8
-4058, Jessica Too, 21, 3.4
-4092, Alice Too, 23, 3.5
-5029, Sophia Too, 20, 3.9
-5093, Emily Too, 19, 3.6
-6071, John Too, 18, 3.3
-6074, Robert Too, 22, 3.9
-7083, Kyle Too, 22, 3.5
-7086, Anna Too, 20, 3.4
-8094, Jose Too, 20, 3.6
-8097, Kevin Too, 21, 3.8
-9021, Alex Too, 19, 3.8
-9028, Megan Too, 23, 3.7
+ID: 1005, Name: Jane Too, Age: 22, GPA: 3.9
+ID: 1023, Name: John Too, Age: 20, GPA: 3.5
+ID: 1054, Name: Judy Too, Age: 22, GPA: 3.7
+ID: 1104, Name: Henry Too, Age: 19, GPA: 3.6
+ID: 2046, Name: Stephanie Too, Age: 21, GPA: 3.4
+ID: 2056, Name: Guang Too, Age: 21, GPA: 3.7
+ID: 3069, Name: Daniel Too, Age: 20, GPA: 3.2
+ID: 3107, Name: Michael Too, Age: 23, GPA: 3.8
+ID: 4058, Name: Jessica Too, Age: 21, GPA: 3.4
+ID: 4092, Name: Alice Too, Age: 23, GPA: 3.5
+ID: 5029, Name: Sophia Too, Age: 20, GPA: 3.9
+ID: 5093, Name: Emily Too, Age: 19, GPA: 3.6
+ID: 6071, Name: John Too, Age: 18, GPA: 3.3
+ID: 6074, Name: Robert Too, Age: 22, GPA: 3.9
+ID: 7083, Name: Kyle Too, Age: 22, GPA: 3.5
+ID: 7086, Name: Anna Too, Age: 20, GPA: 3.4
+ID: 8094, Name: Jose Too, Age: 20, GPA: 3.6
+ID: 8097, Name: Kevin Too, Age: 21, GPA: 3.8
+ID: 9021, Name: Alex Too, Age: 19, GPA: 3.8
+ID: 9028, Name: Megan Too, Age: 23, GPA: 3.7
